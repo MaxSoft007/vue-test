@@ -46,7 +46,6 @@ export default {
   }
 }
 </script>
-
 <style lang="less">
   @import '~vux/src/styles/close.less';
   @import '~vux/src/styles/1px.less';
